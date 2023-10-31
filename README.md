@@ -29,6 +29,6 @@ I'm Harut, a passionate software developer with a knack for crafting elegant and
 #### 📫 Let's Connect
 - Feel free to reach out if you want to collaborate on exciting projects or discuss the latest advancements in the tech world.
 
-- You can find me on [LinkedIn](https://www.linkedin.com/in/your-profile) for more about my professional journey.
+- You can find me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/harut-hovakimyan-0b07a021b/)) for more about my professional journey.
 
 Let's code together and shape the digital landscape with innovation and creativity!
